@@ -1,4 +1,4 @@
-## Hi there 👋 여기는 박해향의 github입니다~~!!><
+## Hi there 👋 여기는 박해향의 github입니다. 반가워요~~!!><
 
 <!--
 **haehyang/haehyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
