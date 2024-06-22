@@ -1,4 +1,4 @@
-## Hi there 👋 저는 사회학과에 재학 중인 박해향입니다!! 만나서 방가방가
+## Hi there 👋 여기는 박해향의 github입니다~~!!><
 
 <!--
 **haehyang/haehyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
